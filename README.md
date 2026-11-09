@@ -9,3 +9,10 @@ C++, MFC, Visual Studio 2022
 <br>
 
 ## 3, 주요 기능 (Features)
+사칙연산 지원
+0으로 나누었을 때 오류로 판단하여 예외 처리
+연산 결과를 저장하는 기능 지원
+
+<br>
+
+## 4, 주요 구현 내용 (Implementation)
