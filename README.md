@@ -96,7 +96,7 @@ void CCalculatorDlg::OnBnClickedLog()
 
 ### 계산기 메인 화면
 
-실행 화면 첨부 예정
+<img width="571" height="634" alt="image" src="https://github.com/user-attachments/assets/e4ea48f9-2162-4db7-ac2c-d98c12262f5f" />
 
 ### 계산 기록 화면
 
