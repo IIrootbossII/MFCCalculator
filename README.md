@@ -100,7 +100,8 @@ void CCalculatorDlg::OnBnClickedLog()
 
 ### 계산 기록 화면
 
-실행 화면 첨부 예정
+<img width="573" height="634" alt="image" src="https://github.com/user-attachments/assets/d87e92fc-8875-4cf2-a531-0e01e690b456" />
+
 
 
 
