@@ -7,7 +7,7 @@ MFC의 메시지 맵과 이벤트 처리 구조를 학습하고, 사칙연산과
 
 특히 개별 버튼에 작성했던 이벤트 핸들러를 공통 핸들러로 통합하여 코드 중복을 줄이고 유지보수성을 개선하는 데 중점을 두었습니다.
 
----
+
 
 ## 1. 개발 환경 (Development Environment)
 
@@ -19,7 +19,7 @@ MFC의 메시지 맵과 이벤트 처리 구조를 학습하고, 사칙연산과
 | Platform | Windows |
 | 주요 기술 | CString, CEdit, CDialogEx, std::vector |
 
----
+
 
 ## 2. 주요 기능 (Features)
 
@@ -32,7 +32,7 @@ MFC의 메시지 맵과 이벤트 처리 구조를 학습하고, 사칙연산과
 
 계산 결과는 `std::vector<double>`에 순차적으로 저장되며, 프로그램 실행 중 메모리에서 유지됩니다.
 
----
+
 
 ## 3. 주요 구현 내용 (Implementation)
 
@@ -100,7 +100,7 @@ void CCalculatorDlg::OnBnClickedLog()
 
 이를 통해 계산 기능과 계산 기록 조회 화면을 별도의 다이얼로그로 구성했습니다.
 
----
+
 
 ## 4. 실행 화면 (Screenshots)
 
@@ -145,7 +145,7 @@ void CCalculatorDlg::OnBnClickedLog()
 - 계산식과 결과를 함께 저장하는 기록 기능
 - 계산 기록의 파일 저장 및 불러오기 기능
 
----
+
 
 ## 6. 빌드 및 실행 방법 (Build & Run)
 
@@ -162,7 +162,7 @@ void CCalculatorDlg::OnBnClickedLog()
 3. 프로젝트를 빌드합니다.
 4. 생성된 프로그램을 실행합니다.
 
----
+
 
 ## 7. 프로젝트 회고 (Retrospective)
 
